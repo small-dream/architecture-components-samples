@@ -54,6 +54,7 @@ android {
         androidTest.java.srcDirs += "src/test-common/java"
         test.java.srcDirs += "src/test-common/java"
     }
+    namespace = "com.android.example.paging.pagingwithnetwork"
 }
 
 
